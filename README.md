@@ -13,7 +13,7 @@ git version
 ディレクトリ`.ssh`を確認 > 無ければ作成
 ```bash
 mkdir ~/.ssh
-ssh-keygen -t -rsa
+ssh-keygen -t rsa
 ```
 
 ## GitHubに公開鍵をアップ
